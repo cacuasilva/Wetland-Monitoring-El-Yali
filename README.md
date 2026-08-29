@@ -38,15 +38,6 @@ Los valores obtenidos corresponden a sectores analíticos y no constituyen super
 - `data/results/sector_analysis/`: indicadores desagregados, sensibilidad MNDWI y relaciones exploratorias con precipitación.
 - `docs/`: documentación metodológica seleccionada para la presentación pública.
 
-## Competencias demostradas
-
-- preparación, control de calidad e integración de datos;
-- programación y análisis con Python;
-- teledetección mediante la API de Python de Google Earth Engine;
-- análisis espacial y construcción de indicadores ambientales;
-- visualización de series temporales y relaciones estadísticas;
-- interpretación ambiental con comunicación explícita de incertidumbre.
-
 ## Alcance
 
 Este repositorio presenta un caso de estudio de portafolio. Los resultados son exploratorios, no reemplazan mediciones en terreno y no constituyen monitoreo oficial, evaluación ambiental ni una herramienta para decisiones operacionales.
