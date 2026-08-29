@@ -31,12 +31,19 @@ El proyecto busca responder dos preguntas:
 
 Los valores obtenidos corresponden a sectores analíticos y no constituyen superficies oficiales ni una restitución de límites legales.
 
+### Variación estacional del agua abierta
+
+![Variación estacional del agua abierta en Albufera, Laguna Colejuda y Laguna Matanza](data/results/sector_analysis/serie_agua_abierta_por_sector.png)
+
+### Precipitación invernal y agua abierta
+
+![Relación exploratoria entre precipitación invernal y agua abierta](data/results/sector_analysis/relacion_precipitacion_agua_invierno.png)
+
 ## Contenido
 
-- `notebooks/01_analisis_resultados_el_yali.ipynb`: análisis público reproducible con Python.
-- `data/results/`: tablas y figuras derivadas del análisis temporal.
-- `data/results/sector_analysis/`: indicadores desagregados, sensibilidad MNDWI y relaciones exploratorias con precipitación.
-- `docs/`: documentación metodológica seleccionada para la presentación pública.
+- [Notebook de análisis](notebooks/01_analisis_resultados_el_yali.ipynb): control de calidad, estadística descriptiva y visualizaciones con Python.
+- [Resultados generales](data/results/): tablas y figuras del análisis temporal agregado.
+- [Resultados por sector](data/results/sector_analysis/): indicadores desagregados, sensibilidad MNDWI y relaciones exploratorias con precipitación.
 
 ## Alcance
 
