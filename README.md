@@ -11,6 +11,12 @@ El proyecto busca responder dos preguntas:
 1. ¿Cómo cambia la superficie con respuesta espectral de agua entre invierno y verano?
 2. ¿Las tres unidades presentan la misma relación entre precipitación, agua abierta y vegetación?
 
+## Enfoque metodológico
+
+![Workflow metodológico desde la pregunta ambiental a la interpretación aplicada](data/results/figura_workflow_metodologico_el_yali.png)
+
+El análisis conecta una pregunta ambiental, observaciones satelitales comparables, indicadores espectrales e interpretación prudente. La incertidumbre se considera de forma transversal: resolución espacial, nubosidad, sensibilidad del umbral MNDWI, píxeles mixtos, geometrías de referencia, escala de la precipitación y ausencia de validación sistemática en terreno.
+
 ## Diseño analítico
 
 - composiciones estacionales comparables de Sentinel-2 Surface Reflectance Harmonized;
@@ -33,11 +39,19 @@ Los valores obtenidos corresponden a sectores analíticos y no constituyen super
 
 ### Variación estacional del agua abierta
 
-![Variación estacional del agua abierta en Albufera, Laguna Colejuda y Laguna Matanza](data/results/sector_analysis/serie_agua_abierta_por_sector.png)
+![Variación estacional del agua abierta en Albufera, Laguna Colejuda y Laguna Matanza](data/results/sector_analysis/serie_agua_abierta_por_sector_cientifica.png)
+
+### Condición espectral media de la vegetación
+
+![Variación del NDVI medio por unidad analítica y temporada](data/results/sector_analysis/serie_ndvi_por_sector_cientifica.png)
 
 ### Precipitación invernal y agua abierta
 
-![Relación exploratoria entre precipitación invernal y agua abierta](data/results/sector_analysis/relacion_precipitacion_agua_invierno.png)
+![Relación exploratoria entre precipitación invernal y agua abierta](data/results/sector_analysis/relacion_precipitacion_agua_invierno_cientifica.png)
+
+### Sensibilidad del umbral MNDWI
+
+![Sensibilidad de la superficie de agua al umbral MNDWI](data/results/sector_analysis/sensibilidad_mndwi_por_sector_cientifica.png)
 
 ## Contenido
 
@@ -47,4 +61,4 @@ Los valores obtenidos corresponden a sectores analíticos y no constituyen super
 
 ## Alcance
 
-Este repositorio presenta un caso de estudio de portafolio. Los resultados son exploratorios, no reemplazan mediciones en terreno y no constituyen monitoreo oficial, evaluación ambiental ni una herramienta para decisiones operacionales.
+Este repositorio presenta un caso de estudio de portafolio. Los resultados permiten reconocer trayectorias diferenciadas entre unidades y formular preguntas para seguimiento, verificación en terreno o manejo adaptativo. Son exploratorios: no reemplazan mediciones en terreno, no constituyen monitoreo oficial ni evaluación ambiental, y no son por sí solos una herramienta para decisiones operacionales.
