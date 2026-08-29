@@ -1,0 +1,43 @@
+﻿zona,anio,temporada,superficie_agua_ha,ndvi_medio,umbral_mndwi,superficie_sector_ha,agua_abierta_pct,precipitacion_mm
+Albufera,2019,invierno,45.87,0.21,0,260.82,17.59,140.57
+Albufera,2019,verano,40.17,0.254,0,260.82,15.4,10.89
+Albufera,2020,invierno,72.62,0.194,0,260.82,27.84,287.04
+Albufera,2020,verano,39.76,0.231,0,260.82,15.24,6.04
+Albufera,2021,invierno,47.84,0.248,0,260.82,18.34,110.03
+Albufera,2021,verano,48.13,0.287,0,260.82,18.45,18.44
+Albufera,2022,invierno,49.83,0.202,0,260.82,19.11,176.5
+Albufera,2022,verano,39.66,0.253,0,260.82,15.21,12.84
+Albufera,2023,invierno,53.86,0.242,0,260.82,20.65,288.0
+Albufera,2023,verano,44.22,0.246,0,260.82,16.95,6.91
+Albufera,2024,invierno,43.59,0.228,0,260.82,16.71,350.85
+Albufera,2024,verano,40.84,0.3,0,260.82,15.66,7.66
+Albufera,2025,invierno,50.25,0.242,0,260.82,19.27,227.63
+Albufera,2025,verano,43.61,0.267,0,260.82,16.72,14.12
+Laguna Colejuda,2019,invierno,0.8,0.561,0,64.33,1.24,140.57
+Laguna Colejuda,2019,verano,0.55,0.378,0,64.33,0.85,10.89
+Laguna Colejuda,2020,invierno,7.12,0.573,0,64.33,11.07,287.04
+Laguna Colejuda,2020,verano,0.0,0.348,0,64.33,0.0,6.04
+Laguna Colejuda,2021,invierno,0.53,0.527,0,64.33,0.82,110.03
+Laguna Colejuda,2021,verano,0.29,0.393,0,64.33,0.45,18.44
+Laguna Colejuda,2022,invierno,2.74,0.543,0,64.33,4.26,176.5
+Laguna Colejuda,2022,verano,0.06,0.375,0,64.33,0.09,12.84
+Laguna Colejuda,2023,invierno,4.65,0.629,0,64.33,7.23,288.0
+Laguna Colejuda,2023,verano,0.0,0.388,0,64.33,0.0,6.91
+Laguna Colejuda,2024,invierno,6.66,0.581,0,64.33,10.35,350.85
+Laguna Colejuda,2024,verano,0.15,0.401,0,64.33,0.23,7.66
+Laguna Colejuda,2025,invierno,4.37,0.588,0,64.33,6.79,227.63
+Laguna Colejuda,2025,verano,0.29,0.39,0,64.33,0.45,14.12
+Laguna Matanza,2019,invierno,0.03,0.389,0,210.85,0.01,140.57
+Laguna Matanza,2019,verano,0.01,0.427,0,210.85,0.0,10.89
+Laguna Matanza,2020,invierno,31.15,0.527,0,210.85,14.77,287.04
+Laguna Matanza,2020,verano,0.0,0.288,0,210.85,0.0,6.04
+Laguna Matanza,2021,invierno,0.0,0.439,0,210.85,0.0,110.03
+Laguna Matanza,2021,verano,0.0,0.508,0,210.85,0.0,18.44
+Laguna Matanza,2022,invierno,0.0,0.452,0,210.85,0.0,176.5
+Laguna Matanza,2022,verano,0.0,0.421,0,210.85,0.0,12.84
+Laguna Matanza,2023,invierno,0.0,0.597,0,210.85,0.0,288.0
+Laguna Matanza,2023,verano,0.0,0.502,0,210.85,0.0,6.91
+Laguna Matanza,2024,invierno,19.98,0.548,0,210.85,9.48,350.85
+Laguna Matanza,2024,verano,0.02,0.462,0,210.85,0.01,7.66
+Laguna Matanza,2025,invierno,0.0,0.596,0,210.85,0.0,227.63
+Laguna Matanza,2025,verano,0.16,0.483,0,210.85,0.08,14.12

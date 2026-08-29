@@ -1,0 +1,7 @@
+﻿zona,temporada,observaciones,pearson_agua_precipitacion,spearman_agua_precipitacion,pearson_ndvi_precipitacion,spearman_ndvi_precipitacion
+Albufera,invierno,7,0.281,0.179,-0.06,-0.18
+Albufera,verano,7,0.619,0.357,0.43,0.607
+Laguna Colejuda,invierno,7,0.943,0.893,0.707,0.786
+Laguna Colejuda,verano,7,0.488,0.691,0.375,0.429
+Laguna Matanza,invierno,7,0.648,0.394,0.764,0.786
+Laguna Matanza,verano,7,0.273,0.217,0.507,0.5

@@ -1,0 +1,17 @@
+# Material de trabajo privado
+private/
+docs/*_privada.md
+docs/00_definicion_proyecto.md
+documents/fuentes/
+
+# Datos originales y paquetes de respaldo
+data/raw/
+data/results/*.zip
+
+# Archivos temporales y credenciales locales
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.env
+credentials*.json
+service-account*.json
