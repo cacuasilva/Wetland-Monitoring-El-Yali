@@ -33,6 +33,7 @@ Los valores obtenidos corresponden a sectores analíticos y no constituyen super
 
 ## Contenido
 
+- `notebooks/01_analisis_resultados_el_yali.ipynb`: análisis público reproducible con Python.
 - `data/results/`: tablas y figuras derivadas del análisis temporal.
 - `data/results/sector_analysis/`: indicadores desagregados, sensibilidad MNDWI y relaciones exploratorias con precipitación.
 - `docs/`: documentación metodológica seleccionada para la presentación pública.

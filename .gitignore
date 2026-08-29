@@ -12,6 +12,7 @@ data/results/*.zip
 .ipynb_checkpoints/
 __pycache__/
 *.pyc
+.matplotlib-cache/
 .env
 credentials*.json
 service-account*.json
