@@ -53,11 +53,32 @@ Los valores obtenidos corresponden a sectores analíticos y no constituyen super
 
 ![Sensibilidad de la superficie de agua al umbral MNDWI](data/results/sector_analysis/sensibilidad_mndwi_por_sector_cientifica.png)
 
+## Cartografía de apoyo a la interpretación
+
+Las siguientes láminas integran la lectura espacial de las composiciones Sentinel-2 y de los indicadores de agua abierta. Se presentan como apoyo a la interpretación temporal y a la priorización de preguntas de seguimiento; no corresponden a delimitaciones oficiales ni a una evaluación de terreno.
+
+### Frecuencia estimada de agua abierta, 2019–2025
+
+![Frecuencia estimada de agua abierta en la Reserva Nacional El Yali](data/results/cartografia/mapa_02_frecuencia_agua_abierta.png)
+
+### Comparación estacional, 2020 y 2024
+
+![Comparación estacional de composiciones Sentinel-2 y agua abierta estimada](data/results/cartografia/mapa_03_comparacion_estacional.png)
+
+### Cambio estimado de agua abierta entre inviernos
+
+![Cambio estimado de agua abierta entre los inviernos de 2020 y 2024](data/results/cartografia/mapa_04_cambio_invernal_2020_2024.png)
+
+### Extensión máxima estimada de agua abierta, 2019–2025
+
+![Extensión máxima estimada de agua abierta en la Reserva Nacional El Yali](data/results/cartografia/mapa_05_extension_maxima_2019_2025.png)
+
 ## Contenido
 
 - [Notebook de análisis](notebooks/01_analisis_resultados_el_yali.ipynb): control de calidad, estadística descriptiva y visualizaciones con Python.
 - [Resultados generales](data/results/): tablas y figuras del análisis temporal agregado.
 - [Resultados por sector](data/results/sector_analysis/): indicadores desagregados, sensibilidad MNDWI y relaciones exploratorias con precipitación.
+- [Cartografía](data/results/cartografia/): láminas de frecuencia, comparación estacional, cambio y extensión máxima estimada de agua abierta.
 
 ## Alcance
 
