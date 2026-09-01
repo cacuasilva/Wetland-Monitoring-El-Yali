@@ -2,6 +2,10 @@
 
 Caso de estudio de teledetección y análisis de datos ambientales aplicado a tres unidades de humedal de la Región de Valparaíso: Albufera, Laguna Colejuda y Laguna Matanza.
 
+## Informe técnico
+
+[Abrir informe técnico de monitoreo y planificación](documents/Informe_Tecnico_Monitoreo_y_Planificacion_El_Yali.docx)
+
 ## Objetivo
 
 Caracterizar la variación estacional del agua abierta y la condición de la vegetación entre 2019 y 2025, integrando observaciones Sentinel-2, índices espectrales y precipitación CHIRPS.
