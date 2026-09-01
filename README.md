@@ -21,6 +21,12 @@ El proyecto busca responder dos preguntas:
 
 El análisis conecta una pregunta ambiental, observaciones satelitales comparables, indicadores espectrales e interpretación prudente. La incertidumbre se considera de forma transversal: resolución espacial, nubosidad, sensibilidad del umbral MNDWI, píxeles mixtos, geometrías de referencia, escala de la precipitación y ausencia de validación sistemática en terreno.
 
+### Monitoreo y planificación adaptativa
+
+![Esquema de implementación del monitoreo y la planificación adaptativa](data/results/figura_flujo_monitoreo_planificacion.png)
+
+El esquema sitúa los resultados del caso de estudio dentro de una secuencia de implementación: observación estacional comparable, análisis por unidad, contraste técnico y territorial cuando corresponda, y síntesis anual para ajustar el seguimiento. Su propósito es apoyar la planificación y la priorización de verificaciones, sin reemplazar los instrumentos de gestión ni las decisiones institucionales.
+
 ## Diseño analítico
 
 - composiciones estacionales comparables de Sentinel-2 Surface Reflectance Harmonized;
