@@ -76,6 +76,7 @@ Las siguientes láminas integran la lectura espacial de las composiciones Sentin
 ## Contenido
 
 - [Notebook de análisis](notebooks/01_analisis_resultados_el_yali.ipynb): control de calidad, estadística descriptiva y visualizaciones con Python.
+- [Informe técnico de monitoreo y planificación](documents/Informe_Tecnico_Monitoreo_y_Planificacion_El_Yali.docx): integración de resultados, cartografía, indicadores de seguimiento, incertidumbre y propuesta de manejo adaptativo.
 - [Resultados generales](data/results/): tablas y figuras del análisis temporal agregado.
 - [Resultados por sector](data/results/sector_analysis/): indicadores desagregados, sensibilidad MNDWI y relaciones exploratorias con precipitación.
 - [Cartografía](data/results/cartografia/): láminas de frecuencia, comparación estacional, cambio y extensión máxima estimada de agua abierta.
